@@ -1,0 +1,30 @@
+# Secrets
+config/
+.env
+.env.*
+
+
+# Python
+__pycache__/
+
+# PyCharm
+.idea/
+
+
+# Virtual environments
+myvenv/
+
+# Testing
+.pytest_cache/
+
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data files
+data/archive.zip
+
+
+
+
+
